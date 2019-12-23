@@ -4,10 +4,10 @@
 GitIn是一款学习技术资源的微信小程序，在GitIn，你可以高效利用碎片化的时间，学习编程技术；通过学习Github国内外大神分享的技术资源，快速提升编程能力。
 
 ## 目前收录的资源有
-* **[JavaGuide](https://github.com/Snailclimb/JavaGuide) 65.6k Star, 国内@Snailclimb大神分享，涵盖大部分Java程序员所需要掌握的核心知识。**
-* **[Java-design-patterns](https://github.com/iluwatar/java-design-patterns) 53.7k Star, Design patterns implemented in Java（目前收录了部分常用的设计模式）**
-* **[Google's Code Review Guidelines](https://github.com/google/eng-practices) 11.3k Star, 英文版本（中文版正在收集和翻译中）。Google的代码审查指导标准。**
-* **[JavaScript](https://github.com/30-seconds/30-seconds-of-code) 53.3k Star，Short JavaScript code snippets for all your development needs. (中文版本，选自：https://github.com/SD-Gaming/30s-code-translate-into-Chinese-)。**
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) 65.6k Star, 国内@Snailclimb大神分享，涵盖大部分Java程序员所需要掌握的核心知识。
+- [Java-design-patterns](https://github.com/iluwatar/java-design-patterns) 53.7k Star, Design patterns implemented in Java（目前收录了部分常用的设计模式）
+- [Google's Code Review Guidelines](https://github.com/google/eng-practices) 11.3k Star, 英文版本（中文版正在收集和翻译中）。Google的代码审查指导标准。
+- [JavaScript](https://github.com/30-seconds/30-seconds-of-code) 53.3k Star，Short JavaScript code snippets for all your development needs. (中文版本，选自：https://github.com/SD-Gaming/30s-code-translate-into-Chinese-)。
 ## 一些限制
  - GitIn使用wemark(https://github.com/TooBug/wemark)渲染markdown，渲染效果还不是非常完美。
  - GitIn是属于个人开发的小程序，所以Markdown文件中的外部链接，不能直接点击。你可以选择‘复制Git地址’操作，在小程序外部进行查看外部链接。

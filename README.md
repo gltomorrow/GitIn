@@ -1,4 +1,4 @@
-# GitIn(v0.0.24 - 2019.12.24)
+# GitIn(v0.0.30 - 2019.12.30)
 <img src="https://6170-apptest-0htg6-1300270452.tcb.qcloud.la/GitIn.png" width="200" height="200" alt="GitIn" align="center">
 
 GitIn是一款学习技术资源的微信小程序，在GitIn，你可以高效利用碎片化的时间，学习编程技术；通过学习Github国内外大神分享的技术资源，快速提升编程能力。
